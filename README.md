@@ -1,2 +1,4 @@
-# EDA_superstore
-Exploratory Data Analysis (EDA) on Superstore dataset using Python (Pandas, Matplotlib, Seaborn).  Analyzing Superstore sales and profit trends with data visualization and insights.  EDA project for uncovering business insights from the Superstore dataset.  Exploratory Data Analysis on retail dataset to study sales, profit, and business insights. 
+EDA on sypersstore Dataset using Python(pandass,Numpy,seaborn)
+Analysing saless and profit with data visualization
+Datacleaning,analysis on the superstore dataet using Jupyter Notebook.
+EDA project to unravel business insights.
